@@ -67,6 +67,28 @@ img {
     text-align: left;
 }
 
+.description h3 {
+    font-size: 11px;
+    font-weight: normal;
+}
+
+.description h4 {
+    font-size: 13px;
+}
+
+.description .price {
+    font-size: 11px;
+    font-weight: bold;
+    color: red;
+
+}
+
+.description .price-old {
+    font-size: 11px;
+    text-decoration: line-through;
+
+}
+
 .product:hover {
     cursor: pointer;
 }
